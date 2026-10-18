@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Superheroes</string>
+
+    <string name="hero1">Héroe 1</string>
+    <string name="description1">Un héroe que protege a la ciudad.</string>
+
+    <string name="hero2">Héroe 2</string>
+    <string name="description2">Un héroe que lucha por la justicia.</string>
+
+    <string name="hero3">Héroe 3</string>
+    <string name="description3">Un héroe valiente y poderoso.</string>
+
+    <string name="hero4">Héroe 4</string>
+    <string name="description4">Un héroe que ayuda a los demás.</string>
+
+    <string name="hero5">Héroe 5</string>
+    <string name="description5">Un héroe que nunca se rinde.</string>
+
+    <string name="hero6">Héroe 6</string>
+    <string name="description6">Un héroe que salva el mundo.</string>
+
 </resources>

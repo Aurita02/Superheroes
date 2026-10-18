@@ -22,9 +22,24 @@ val Typography = Typography(
         lineHeight = 24.sp,
         letterSpacing = 0.5.sp
     ),
+    titleLarge = TextStyle(
+        fontFamily = Cabin,
+        fontWeight = FontWeight.Bold,
+        fontSize = 22.sp,
+        lineHeight = 28.sp,
+        letterSpacing = 0.sp
+    ),
+    bodyMedium = TextStyle(
+        fontFamily = Cabin,
+        fontWeight = FontWeight.Normal,
+        fontSize = 14.sp,
+        lineHeight = 20.sp,
+        letterSpacing = 0.25.sp
+    ),
     displaySmall = TextStyle(
         fontFamily = Cabin,
         fontWeight = FontWeight.Bold,
         fontSize = 20.sp
     )
+
 )
